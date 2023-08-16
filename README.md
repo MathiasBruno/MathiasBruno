@@ -20,6 +20,6 @@ Hoje busco me tornar um desenvolvedor JAVA 🍵
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](www.linkedin.com/in/bruno-mathias-339a16277) 
-[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/BrunoMathias#7635/)
-[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=fffff)](https://www.github.com/MathiasBruno)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)] (www.linkedin.com/in/bruno-mathias-339a16277) 
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)] (https://www.discord.com/in/BrunoMathias#7635/)
+[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=fffff)] (https://www.github.com/MathiasBruno)
